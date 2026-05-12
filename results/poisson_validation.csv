@@ -1,0 +1,5 @@
+pde,model,grid_size,best_l2,n_params,train_time_s
+poisson,MLP,,17.174348831176758,49921,198.0
+poisson,KINN,5.0,0.5336545705795288,350,721.9
+poisson,KINN,10.0,0.8757444024085999,525,678.1
+poisson,KINN,20.0,0.9734175801277161,875,390.0

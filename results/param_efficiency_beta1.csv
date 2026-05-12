@@ -1,0 +1,2 @@
+model,depth,width,grid_size,best_l2,n_params,train_time_s
+KINN,3,10,20,0.0003645647957455367,3250,669.7
